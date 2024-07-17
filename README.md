@@ -1,0 +1,1 @@
+Manual testing insights and results for the renowned e-commerce platform, Pickaboo.com. This repository includes test cases, bug reports, and detailed analysis of the website's functionality, usability, and also test metrics as well. 
